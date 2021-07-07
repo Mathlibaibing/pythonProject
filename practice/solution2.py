@@ -8,4 +8,4 @@ class Solution:
 
 if __name__ == '__main__':
     example = Solution()
-    example.fourSum([],3)
+    example.fourSum([] ,3)
